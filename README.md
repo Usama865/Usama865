@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1500w)]
+![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif?format=1500w)
 
 <h1 align="center">Hi 👋, I'm Usama Saif</h1>
 <h3 align="center">A passionate Data Science evangelist</h3>
